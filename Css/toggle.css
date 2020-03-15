@@ -1,0 +1,13 @@
+#big-bar{
+    height: 20px;
+    width: 80px;
+    background-color: white;
+    border: 2px solid black;
+    margin-top: 60px;
+    margin-left: 600px;
+    
+}
+html{
+    background-color: white;
+    text-align: center;
+}
